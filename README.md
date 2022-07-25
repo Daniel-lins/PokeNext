@@ -1,34 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center"> PokeNext </h1>
+<p align="center">  
+is a pokedex made with nextJs
+<p> </p> 
+<p align="center" ><a  href="https://poke-next-nu.vercel.app/" > Application running | click here </a>  </p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/daniel-lins-/">
+      <img alt="DanielLins" src="https://img.shields.io/badge/-DanielLi-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/daniel-lins/filmes-react?color=%235965E0">
+  <a href="Dlins300@gmail.com">
+   <img alt="Email" src="https://img.shields.io/badge/-dlins300%40gmail.com-%23525DCB" />
+  </a>
+</p>
 
-First, run the development server:
+# 📌 Contents
+
+* [Screenshots](#camera-screenshot)
+* [Technologies](#rocket-technologies)
+* [How to Run](#computer-how-to-run)
+* [Issues](#bug-issues)
+* [License](#page_facing_up-license)
+
+
+
+# :camera: Screenshots
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/71731815/180671388-ada44f0b-d749-4e33-b95f-d61dbb9a45bc.jpg"  width="500px" />
+   <img src="https://user-images.githubusercontent.com/71731815/180671416-eef9f691-7244-4890-9beb-84dcae8c3b8e.jpg" width="500px" />
+  <h2>Mobile </h2>
+  <img src="https://user-images.githubusercontent.com/71731815/180671453-900a9ba4-001d-4ad9-8bc0-fdb79f3d5b40.jpg" width="400px" />
+  <img src="https://user-images.githubusercontent.com/71731815/180671469-ae0c5e1f-6d83-42c0-8e8e-1fea1fc4bac1.jpg" width="400px" />
+  
+ 
+  
+</div>
+
+# :rocket: Technologies
+This project was made using the follow technologies:
+* [JavaScript](https://www.javascript.com/)      
+* [NextJS](https://nextjs.org/)      
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+# :computer: How to run
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone Repository
+$ git clone https://github.com/Daniel-lins/PokeNext
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+# Install Dependencies
+$ yarn
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Run Aplication
+$ yarn dev
+```
+Go to http://localhost:3000/ to see the result.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# :bug: Issues
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Create a <a href="https://github.com/daniel-lins/PokeNext/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
-## Learn More
+# :page_facing_up: License
 
-To learn more about Next.js, take a look at the following resources:
+This project is under the [MIT license](./LICENSE).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you! 🌠
